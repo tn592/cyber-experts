@@ -10,8 +10,8 @@ const Header = () => {
 					cyber security team
 				</p>
 				<h1 className="text-3xl text-gray-800">
-					Total Budget: <span className="text-3xl font-bold"
-					>10 million</span>
+					Total Budget:
+					<span className="text-3xl font-bold">10 million</span>
 				</h1>
 			</div>
 		</div>
